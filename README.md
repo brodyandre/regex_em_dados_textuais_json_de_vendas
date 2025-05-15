@@ -1,0 +1,1 @@
+# regex_em_dados_textuais_json_de_vendas
