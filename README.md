@@ -1,4 +1,4 @@
-# 📝 Limpeza e Transformação de Dados de Vendas com Python e Regex
+# 📝 Limpeza e Transformação de Dados de Vendas com python e Regex
 
 Este projeto realiza a limpeza e transformação de dados de vendas extraídos de um arquivo JSON, utilizando a linguagem Python e a biblioteca Pandas para manipulação e tratamento dos dados. A seguir, é apresentada uma descrição detalhada de cada etapa do processo.
 
