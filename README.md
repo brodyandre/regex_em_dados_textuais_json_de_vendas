@@ -19,6 +19,9 @@ Para executar o projeto, certifique-se de ter instaladas as seguintes dependênc
 ```bash
 pip install pandas numpy
 ```
+## 🐍 Linguagem Utilizada: Python
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/> </div>
+Python é uma linguagem de programação de alto nível, interpretada e de fácil leitura, amplamente utilizada para análise e manipulação de dados. Neste projeto, Python é a base para o processamento dos dados de vendas, utilizando bibliotecas poderosas como Pandas e NumPy para facilitar a limpeza, transformação e análise dos dados.
 
 ---
 
